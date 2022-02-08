@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Keyo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">search</string>
+    <string name="delete">delete</string>
+    <string name="add">add</string>
+    <string name="feed">feed</string>
+    <string name="utility">utility</string>
+    <string name="settings">settings</string>
+    <string name="https_goole_com">https://goole.com</string>
+    <string name="site_app">site/app</string>
+    <string name="username_email">username/email</string>
+    <string name="password">password</string>
+    <string name="todo">TODO</string>
+    <string name="_0">0</string>
+    <string name="length">length :</string>
+    <string name="a_z">a..z</string>
+    <string name="a_z_cap">A..Z</string>
+    <string name="_0_9">0..9</string>
+    <string name="symbol_gen">!..#</string>
+    <string name="_5">5</string>
+    <string name="generate">generate</string>
+    <string name="copy">copy</string>
+    <string name="password_">password :</string>
+    <string name="copy_password">copy password</string>
+    <string name="copy_username">copy username</string>
+    <string name="dark_theme">dark theme</string>
+    <string name="lock_application">lock application</string>
+    <string name="enabling_this_the_app_will_ask_for_verification_npasswod_same_as_device">enabling this the app will ask for verification\npasswod same as device</string>
+    <string name="list_empty_try_adding_some_credentials">list empty, try adding some credentials</string>
+    <string name="feedbackSubject">Keyo Feedback</string>
+    <string name="nogmail">sorry unable to open gmail</string>
+    <string name="rateus">rate us</string>
+    <string name="feedback">feedback</string>
+    <string name="dark_there_or_light_theme">dark there or light theme</string>
+    <string name="kindly_rate_us_on_playstore">kindly rate us on playstore</string>
+    <string name="asks_for_password_on_app_start">asks for password on app start</string>
+    <string name="made_with_in">made with ❤ in 🇮🇳</string>
+</resources>
